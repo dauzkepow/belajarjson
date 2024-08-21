@@ -9,7 +9,14 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  #JSON - Annotation
+  json_annotation: ^4.9.0
 
 dev_dependencies:
-  lints: ^2.1.0
+  lints: ^4.0.0
   test: ^1.24.0
+  #JSON - Serializable
+  json_serializable: ^6.8.0
+  #JSON - build_runner
+  build_runner: ^2.4.12
+
